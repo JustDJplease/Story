@@ -1,0 +1,6 @@
+name: ${name}
+version: ${version}
+description: ${description}
+authors: [TheBlockBender, JustDJplease]
+main: me.theblockbender.story.Main
+website: https://github.com/JustDJplease/Story
