@@ -12,4 +12,12 @@ public class StoryPrompt {
     public StoryOption getOption(int index) {
         return options.get(index);
     }
+
+    public List<StoryOption> getOptions() {
+        return options;
+    }
+
+    public int getOptionsAmount() {
+        return options.size();
+    }
 }
